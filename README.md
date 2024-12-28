@@ -6,4 +6,4 @@ Version 2.5 is the final version.
 - When calibration is done, the Zumo can be taken away from the line.
 - The Zumo is then placed some random location pointing towards the maze.
 - Button B is pressed.
-- It should work ;-)))
+- It should solve the maze ;-)))
