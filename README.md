@@ -7,3 +7,6 @@ Version 2.5 is the final version.
 - The Zumo is then placed some random location pointing towards the maze.
 - Button B is pressed.
 - It should solve the maze ;-)))
+
+- Video of Zumo solving a maze.
+https://youtu.be/5vYFaJ8Dx1M
