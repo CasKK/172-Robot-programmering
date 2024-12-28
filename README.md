@@ -1,2 +1,2 @@
-Version 2.5 er den endelige
+Version 2.5 er den endelige.
 
